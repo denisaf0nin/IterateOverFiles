@@ -1,6 +1,6 @@
 # IterateOverFiles
-Iterate over folders and contained files to update them with a new column (CAGR calculation)
-File structure:
+Iterate over folders and contained files to update them with a new column (CAGR calculation).
+<br>File structure:
 
       root
       |
