@@ -14,7 +14,7 @@ File structure:
       |  |-File2
       |  |_...
       |
-      |__Folder2
+      |__Folder3
       |  |-File1
       |  |-File2
       |  |_...
